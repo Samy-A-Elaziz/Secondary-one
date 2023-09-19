@@ -135,7 +135,7 @@ nav .home{
         font-family: fantasy;
         color: #111dc5;
         position: relative;
-        top: 24%;
+        top: 22%;
         opacity: 1;
         font-size: 45px;
     }
@@ -145,7 +145,7 @@ nav .home{
         color: red;
         opacity: 1;
         position: relative;
-        font-size: 19px;
+        font-size: 17px;
         top: 21px;
     }
     .subjects{
